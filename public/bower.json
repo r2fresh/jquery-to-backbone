@@ -1,0 +1,29 @@
+{
+  "name": "public",
+  "authors": [
+    "r2fresh-imac-kt <r2fresh.kim@kt.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.3",
+    "hogan.js": "hogan#~3.0.2",
+    "jquery": "~2.1.4",
+    "r.js": "~2.1.22",
+    "requirejs": "~2.1.22",
+    "text": "~2.0.14"
+  },
+  "devDependencies": {
+    "hogan.js": "hogan#~3.0.2"
+  }
+}
